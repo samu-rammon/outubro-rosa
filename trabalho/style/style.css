@@ -1,0 +1,14 @@
+.navbar navbar-expand-lg navbar-light bg-light {
+    background-color: #f7c9cb    ;
+}
+
+body {
+    background-color: #f4b4b5;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+
+h1 {
+    font-family: 'Knewave', cursive;;
+}
