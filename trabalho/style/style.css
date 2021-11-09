@@ -11,4 +11,6 @@ body {
 
 h1, h2, p{
     font-family: 'Knewave', cursive;;
+    color: #8b4752; 
+    font-size: 32px;
 }
